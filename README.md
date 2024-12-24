@@ -15,8 +15,6 @@
   - [utils.py](#utilitypy)
 - [Data Flow](#data-flow)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
